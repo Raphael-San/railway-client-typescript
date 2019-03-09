@@ -57,6 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# account setting
+.yml
+
 captcha.BMP
 cookies*.json
 cookies/*.json
